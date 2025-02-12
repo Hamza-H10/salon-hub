@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/booking/booking.iml" filepath="$PROJECT_DIR$/booking/booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/category/category.iml" filepath="$PROJECT_DIR$/category/category.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/gateway-server/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notifications/notifications.iml" filepath="$PROJECT_DIR$/notifications/notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment/payment.iml" filepath="$PROJECT_DIR$/payment/payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/review/review.iml" filepath="$PROJECT_DIR$/review/review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salon/salon.iml" filepath="$PROJECT_DIR$/salon/salon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-offering/service-offering.iml" filepath="$PROJECT_DIR$/service-offering/service-offering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>
